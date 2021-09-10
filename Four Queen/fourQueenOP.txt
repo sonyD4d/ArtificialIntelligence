@@ -1,0 +1,38 @@
+Enter intial queen position:1
+Failed to place in 2,1 //BACKTRACK: move to adj
+Failed to place in 2,2 //BACKTRACK: move to adj
+placed in 2,3 //FORWARD EDGE
+Failed to place in 3,1 //BACKTRACK: move to adj
+Failed to place in 3,2 //BACKTRACK: move to adj
+Failed to place in 3,3 //BACKTRACK: move to adj
+Failed to place in 3,4 //BACKTRACK: move to adj
+Failed to place in 2,3 //BACKTRACK:Level down
+placed in 2,4 //FORWARD EDGE
+Failed to place in 3,1 //BACKTRACK: move to adj
+placed in 3,2 //FORWARD EDGE
+Failed to place in 4,1 //BACKTRACK: move to adj
+Failed to place in 4,2 //BACKTRACK: move to adj
+Failed to place in 4,3 //BACKTRACK: move to adj
+Failed to place in 4,4 //BACKTRACK: move to adj
+Failed to place in 3,2 //BACKTRACK:Level down
+Failed to place in 3,3 //BACKTRACK: move to adj
+Failed to place in 3,4 //BACKTRACK: move to adj
+Failed to place in 2,4 //BACKTRACK:Level down
+No solution possible
+
+--------------------------------------------------------
+
+Enter intial queen position:2
+Failed to place in 2,1 //BACKTRACK: move to adj
+Failed to place in 2,2 //BACKTRACK: move to adj
+Failed to place in 2,3 //BACKTRACK: move to adj
+placed in 2,4 //FORWARD EDGE
+placed in 3,1 //FORWARD EDGE
+Failed to place in 4,1 //BACKTRACK: move to adj
+Failed to place in 4,2 //BACKTRACK: move to adj
+placed in 4,3 //FORWARD EDGE
+Solution:
+0 1 0 0 
+0 0 0 1 
+1 0 0 0 
+0 0 1 0 
